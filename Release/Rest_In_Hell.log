@@ -1,0 +1,80 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (W26 LightDone.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Camera.cpp
+  InputManager.cpp
+  Interactions.cpp
+  Light.cpp
+  Main.cpp
+  Model.cpp
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\model.cpp(433): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  Quad.cpp
+  ScreenManager.cpp
+  ShaderManager.cpp
+  SkyBox.cpp
+  Sprite.cpp
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\sprite.cpp(198): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\sprite.cpp(202): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\sprite.cpp(206): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\sprite.cpp(210): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Text.cpp
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\text.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\text.cpp(84): warning C4838: conversion from 'int' to 'GLuint' requires a narrowing conversion
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\text.cpp(84): warning C4838: conversion from 'float' to 'GLuint' requires a narrowing conversion
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\text.cpp(80): warning C4244: 'initializing': conversion from 'float' to 'GLuint', possible loss of data
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\text.cpp(81): warning C4244: 'initializing': conversion from 'float' to 'GLuint', possible loss of data
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\text.cpp(82): warning C4244: 'initializing': conversion from 'float' to 'GLuint', possible loss of data
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\text.cpp(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\text.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\text.cpp(120): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\text.cpp(121): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\text.cpp(143): warning C4018: '<': signed/unsigned mismatch
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\text.cpp(213): warning C4838: conversion from 'int' to 'GLuint' requires a narrowing conversion
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\text.cpp(303): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\text.cpp(307): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\text.cpp(311): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\alessandro_cinque\desktop\rest_in_hell\rest_in_hell\text.cpp(315): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Texture.cpp
+  Wall.cpp
+  Generating code
+  All 968 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Rest_In_Hell.vcxproj -> C:\Users\Alessandro_Cinque\Desktop\Rest_In_Hell\Release\Rest_In_Hell.exe
